@@ -1,0 +1,4 @@
+{
+    "pause": ["Pause", "PAUSE", "pause"],
+    "stop": ["stop", "STOP", "Stop", "quit", "QUIT", "Quit", "q"]
+}
