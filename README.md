@@ -3,5 +3,3 @@ Two chatbots that I made for the Computational Thinking course in my Masters' Da
 The project is written in Python 3.9
 One bot is able to retrieve financial data with the Yahoo Finance API (yfinance package). 
 The other bot is tasked with webscraping a sushi shop website and return a selection of sushi and their prices.
-
-Currently, there's an issue with the sushi chatbot. I'm in the process of fixing it.
